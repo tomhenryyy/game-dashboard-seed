@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=FuelDisplay
+comment1.params=
+comment1.target=FuelDisplay()
+comment2.params=fuel
+comment2.target=void\ setFuel(float)
+numComments=3

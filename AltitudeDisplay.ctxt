@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=AltitudeDisplay
+comment1.params=
+comment1.target=AltitudeDisplay()
+comment2.params=altitude
+comment2.target=void\ setAltitude(float)
+numComments=3

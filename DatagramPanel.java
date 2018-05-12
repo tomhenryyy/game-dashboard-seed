@@ -7,7 +7,7 @@ import javax.swing.border.*;
 import java.net.*;
 import java.io.*;
 
-/* Place holder for ip-address and port number for internet addressing */
+// Place holder for ip-address and port number for internet addressing 
 public class DatagramPanel extends JPanel {
     public static final long serialVersionUID = 2L;
 
